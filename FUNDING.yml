@@ -1,6 +1,2 @@
-github: fabpot
-tidelift: packagist/twig/twig
 custom:
-    - https://symfony.com/cloud/
-    - https://live.symfony.com/
-    - https://certification.symfony.com/
+    - https://cerb.ai/
